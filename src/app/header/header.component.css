@@ -1,0 +1,33 @@
+header{
+    background-color: gainsboro;
+    padding: 1em 0;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+
+}
+
+a.logo{
+    font-weight: bold;
+    margin-left: 5%;
+}
+
+nav{
+    float: right;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+}
+
+li a{
+    padding: 1em;
+}
+
+li a:hover{
+    color:orangered;
+}
